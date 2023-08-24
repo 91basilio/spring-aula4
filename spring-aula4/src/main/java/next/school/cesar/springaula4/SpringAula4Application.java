@@ -1,4 +1,4 @@
-gitpackage next.school.cesar.springaula4;
+package next.school.cesar.springaula4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
